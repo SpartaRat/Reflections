@@ -1,0 +1,5 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso ?
+	Ao criar um novo repositório é criado uma nova pasta(esta será oculta) no diretório local, 
+	que guardará as versões anteriores do projeto, ou seja, guardará todos o histórico(commit).
+	É preciso executar tal ação a fim de se ter onde guardar as versões de seu projeto, sem que acha
+	a criação de um histórico inicial.
