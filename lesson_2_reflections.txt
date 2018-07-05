@@ -11,3 +11,6 @@ Em que se difere a área de preparação do diretório de trabalho e do reposit�
 
 Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica ?
 	Com a área de preparção é possível adicionar todos os arquivos que foram modificados para que uma nova função fosse implementada, assim o commit terá um valor lógico já que contém todos os arquivos que foram modificados.
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+	Os branches(ramificações) ajudam na hora que você desaja implementar um novo recurso extra porém apenas como um teste, sem modificar a versão oficial.
