@@ -13,4 +13,6 @@ Como você pode usar a área de preparação para garantir que tenha um commit p
 	Com a área de preparção é possível adicionar todos os arquivos que foram modificados para que uma nova função fosse implementada, assim o commit terá um valor lógico já que contém todos os arquivos que foram modificados.
 
 Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
-	Os branches(ramificações) ajudam na hora que você desaja implementar um novo recurso extra porém apenas como um teste, sem modificar a versão oficial.
+	Os branches(ramificações) ajudam na hora que você deseja implementar um novo recurso extra porém apenas como um teste, sem modificar a versão oficial.
+Como os diagramas ajudam a visualizar a estrutura de branches?
+	Os diagramas nos mostram os caminhos que criamos em cada seguimento das ramificações(Branches) assim podemos visualizar quais modificações não pertecem a ramificação principal, e quais são recursos novos que serão implementados ao código principal depois de uma aprovação. Além disso visualizando o diagrama podemos visualizar quais commits não são ratreados por nenhuma ramificação(Branche).
