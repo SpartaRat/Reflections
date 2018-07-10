@@ -18,3 +18,5 @@ Como os diagramas ajudam a visualizar a estrutura de branches?
 	Os diagramas nos mostram os caminhos que criamos em cada seguimento das ramificações(Branches) assim podemos visualizar quais modificações não pertecem a ramificação principal, e quais são recursos novos que serão implementados ao código principal depois de uma aprovação. Além disso visualizando o diagrama podemos visualizar quais commits não são ratreados por nenhuma ramificação(Branche).
 Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
 	O resultado é um branch master contendo todos os commits de ambos os branches. Representamos dessa maneira na diagrama para podermos visualizar onde começou cada ramificação, podendo assim saber qual código foi removido e qual foi adicionado.
+Quai são os prós e contras da mesclagem automática do Git vs sempre fazer mesclagem manualmente?
+	A maior vantagem da mesclagem automática é quando não há conflitos de código existe um grande ganho de tempo, porém, quando existe o conflito é preciso entrar em contato com as outras pessoas que moficam o código para decidirem qual parte da mudança será mantida.
