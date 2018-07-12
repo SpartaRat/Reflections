@@ -1,2 +1,4 @@
 Quando você gostaria de criar um repositório remoto em vez de manter todo seu trabalho local?
 	Quando colaborando com outros desenvolvedores fica mais fácil compartilhar updates entre toda a equipe.
+Por que você prefere efetuar o pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositorio remoto?
+	Porque assim eu posso visualizar primeiramente as alterações que foram feitas no GitHub e depois decidir se essas alterações não causarão um bug no meu sistema, depois de confimar que essas novas alterações não causarão danos então atualizo meu repositório local. Se esse processo acontecesse automaticamente poderia ocorrer de vez receber um versão bugada enquanto trabalha em um outro recurso. 
