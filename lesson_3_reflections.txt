@@ -8,3 +8,5 @@ Descreva a diferença entre bifurcações, clones e branches. Quando você usari
 	Branches: São usados em todos os repositórios para ramificar o branch master.
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 	É saber quando as suas alterações não estão salvas na nuvem, além de ser um ponto em comum entre os commits criados localmente e os que foram criados por outros desenvolvedores e colocados no GitHub
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+	Uma forma possível porém pouco viável é dividir as funções entre os desenvolvedores da equipe e sempre ter uma pessoa responsável para verificar as mudanças feitas antes de adicioná-las oficialmente no código fonte.
